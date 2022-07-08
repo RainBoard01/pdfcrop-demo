@@ -1,0 +1,49 @@
+table {
+  font-size: 8px;
+  width: 100%;
+  font-family: "Calibri";
+  border-collapse: collapse;
+  background-color: #ffffff;
+}
+
+table,
+tr,
+td {
+  border: 1.3px solid;
+}
+
+td {
+  padding: 0px 1px;
+}
+
+.region {
+  width: 85px;
+}
+
+.nave {
+  width: 110px;
+}
+
+.rpa {
+  text-align: right;
+  width: 31px;
+}
+
+.matricula {
+  text-align: right;
+  width: 50px;
+}
+
+.capitania {
+  width: 93px;
+}
+
+.vigencia {
+  width: 40px;
+}
+
+table,
+tr,
+.armador {
+  border-right: 0;
+}
